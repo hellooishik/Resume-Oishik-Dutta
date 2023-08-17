@@ -2,7 +2,7 @@
  
 <br/>
 <p align="center">
-<img height="400" width="800" src="https://user-images.githubusercontent.com/76626529/183624735-e2af1e6e-0116-46e7-85b9-a4f79cd627eb.png">
+<img height="400" width="800" src="[https://user-images.githubusercontent.com/76626529/183624735-e2af1e6e-0116-46e7-85b9-a4f79cd627eb.png](https://hellooishik.github.io/Resume-23/)">
 </p>
 
 ## ⭐ Introduction
@@ -62,14 +62,10 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 </p>
 <br/>
 
-## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
+> [LinkedIn](https://www.linkedin.com/in/oishik-dutta-07/)
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
 
 I hope you like the project. Thanks for reading :)
